@@ -1,0 +1,4 @@
+algorithm,clusters,noise,silhouette_without_noise,ARI
+KMeans,2,0,0.4966446554584114,0.45588560784303267
+DBSCAN,2,0,0.39006874932366287,1.0
+Agglomerative,2,0,0.39006874932366287,1.0
